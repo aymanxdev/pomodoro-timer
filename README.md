@@ -6,9 +6,9 @@ The technique uses a timer to break down work into intervals, traditionally 25 m
 separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato',
 after the tomato-shaped kitchen timer that Cirillo used as a university student. - [Wikipedia](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
-![alt Pomodoro Timer Image](https://github.com/aymanxdev/pomodoro-timer/pomodoro_1.png?raw=true)
+![alt Pomodoro Timer Image](https://github.com/aymanxdev/pomodoro-timer/blob/main/pomodoro_1.png)
 
 
 ## Program Screenshot 📷 
 
-![alt Program screenshot](https://github.com/aymanxdev/pomodoro-timer/program_screenshot.png?raw=true)
+![alt Program screenshot](https://github.com/aymanxdev/pomodoro-timer/blob/main/program_screenshot.png)
